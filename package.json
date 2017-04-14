@@ -6,12 +6,9 @@
   "scripts": {
     "webfont": "webfont 'src/*.svg' --config '.webfontrc' -d 'dest/'"
   },
-  "webfont": {
-    "template": "scss"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "webfont": "^7.1.2"
+    "webfont": "^7.1.3"
   }
 }
